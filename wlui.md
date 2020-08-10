@@ -5,7 +5,7 @@ William Lui
 Python
 
 #Fav color
-blue
+white
 
 #Fav food
 noodles
